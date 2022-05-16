@@ -1,1 +1,1 @@
-# rezproject
+# resproject
